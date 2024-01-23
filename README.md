@@ -42,8 +42,8 @@
 </div>  <br/>
 
 <a href="https://github.com/jettyrajeshchowdary">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidquadri&theme=dark&hide_langs_below=1" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettyrajeshchowdary&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/jettyrajeshchowdary">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=wahidquadri&show_icons=true&theme=dark" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=jettyrajeshchowdary&show_icons=true&theme=dark" />
 </a>
