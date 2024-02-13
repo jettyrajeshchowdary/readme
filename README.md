@@ -8,7 +8,7 @@ src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c040
 - 🌱 Learning Never Stops 🚀   
     
 - 💬 Major Skills ****HTML, CSS, JavaScript, Bootstrap , Python****
-
+    
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/jetti-rajesh/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
